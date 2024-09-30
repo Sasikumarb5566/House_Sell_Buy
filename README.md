@@ -1,12 +1,12 @@
 # Real Estate Platform Readme
 
-This readme provides instructions for installiing and running the Waitlist Application. The application consists of both frontend and backend components and uses MongoDB as its database. You have a way to run the application by manually.
+This readme provides instructions for installiing and running the Real Estate Platform. The application consists of both frontend and backend components and uses MongoDB as its database. You have a way to run the application by manually.
 
 ## Installation and Setup
 
 ### Manual Setup
 
-Follow these steps to manually set up the Waitlist Application:
+Follow these steps to manually set up the Real Estate Platform:
 
 1. Clone the repository:
 
